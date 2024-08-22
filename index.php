@@ -70,9 +70,9 @@
 
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $servername = "localhost";
-            $username = "root";
-            $password = "redhat";
-            $dbname = "contact_db";
+            $username = "sajan";
+            $password = "lamp";
+            $dbname = "sajan_db";
 
             // Create connection
             $conn = new mysqli($servername, $username, $password, $dbname);
