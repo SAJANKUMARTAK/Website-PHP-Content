@@ -70,7 +70,7 @@
 
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $servername = "localhost";
-            $username = "lampuser";
+            $username = "sajan";
             $password = "lamp";
             $dbname = "sajan_db";
 
